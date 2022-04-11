@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite Cartas obtener usuarios- Perfil usuario Perfil debe coincidir con snapshot 1`] = `ShallowWrapper {}`;
